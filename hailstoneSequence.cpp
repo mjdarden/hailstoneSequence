@@ -32,7 +32,7 @@ int main() {
   }
   cout << "Your number is: ";
   cout << num;
-  cout << "\n here is the sequence: \n\n";
+  cout << "\n\nhere is the sequence: \n";
   cout << count;
   cout << ". ";
   cout << num;
